@@ -3,6 +3,7 @@
 * {
 	box-sizing: border-box;
 	scroll-behavior: smooth;
+	cursor : url(cur2.cur),default;
 }
 
 html,body{
